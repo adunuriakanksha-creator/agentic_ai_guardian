@@ -3,12 +3,12 @@ Project: Agentic Multi-Modal AI Guardian
 Team: ZENITH
 Theme: AI & ML
 
-#Overview
+#Overview:
 We are building an autonomous personal safety app 
 that detects danger automatically without the user 
 pressing any button.
 
-#Key features
+#Key features:
 The app monitors 3 signals simultaneously:
 1. Voice — detects distress keywords and stress
 2. Motion — detects abnormal movement patterns  
