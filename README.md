@@ -29,9 +29,13 @@ When danger is detected, the Agentic AI automatically:
 
 #Tech Stack:
 -Frontend:  Flutter (Mobile App)
+
 -Backend:   Python + Flask
+
 -Voice AI:  Google Speech API
+
 -Location:  Google Maps API
+
 -SMS Alert: Twilio
 -Database:  Firebase
 
