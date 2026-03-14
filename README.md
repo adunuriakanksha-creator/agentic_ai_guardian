@@ -28,6 +28,7 @@ When danger is detected, the Agentic AI automatically:
 - Finds nearest police station and hospital
 
 #Tech Stack:
+
 -Frontend:  Flutter (Mobile App)
 
 -Backend:   Python + Flask
