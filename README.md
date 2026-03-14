@@ -41,5 +41,7 @@ When danger is detected, the Agentic AI automatically:
 -Database:  Firebase
 
 #how to run:
+
  flutter pub get
+ 
  flutter run 
